@@ -21,7 +21,7 @@ services:
       - 5432
     environment:
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=kali
+      - POSTGRES_PASSWORD=12345
       - POSTGRES_HOST=localhost
       - POSTGRES_DB=question_quiz
 
