@@ -16,7 +16,7 @@ async def filter_questions(questions_num) -> dict[str, str]:
 	added_count = questions_num
 	questions_service = None
 	while added_count != 0:
-		questions_service = await get_questions(questions_num)
+		questions_service = await get_questions(added_count)
 		if questions_service:
 			questions_objects = list()
 			for question in questions_service:
