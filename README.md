@@ -5,6 +5,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+## Orm
+<p>SQLAlchemy - 2.0.4</p>
+
 # Setup
 <div>
     <ul>
